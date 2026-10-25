@@ -26,7 +26,7 @@
 
 | 项目 | 我做了什么 | 技术 / 类型 |
 | --- | --- | --- |
-| [XianYuPlus](https://github.com/najiuwanan511/xianyu-Plus) | 私有部署的闲鱼多账号运营助手，覆盖商品、订单、自动发货、客服与通知。 | Java 21 · Spring Boot · Vue 3 · Docker |
+| [鱼掌柜](https://github.com/najiuwanan511/YuZhanggui) | 私有部署的闲鱼多账号运营工作台，覆盖商品、订单、卡券、自动发货、客服与通知。 | Java 21 · Spring Boot · Vue 3 · Docker |
 | [Chevoink](https://github.com/najiuwanan511/chevoink) | AI 驱动的全栈小说创作与阅读平台，支持创作 Agent、书城与社区功能。 | React · TypeScript · Express · Prisma |
 | [微信二维码展示页](https://github.com/najiuwanan511/wxManagement-page) | 轻量的二维码展示与管理网站，支持后台编辑、图片替换和持久化配置。 | Node.js · Web 应用 |
 
